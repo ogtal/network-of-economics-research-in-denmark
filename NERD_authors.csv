@@ -1,0 +1,848 @@
+author_number,organisation,department,cluster,cluster_size,degree,closeness,betweenness,same_cluster_pct,unique_other_cluster,component
+0,Aalborg Universitet,Aalborg University Business School ,8,35,8,0.207332537789924,0.000272151045480633,1.0,0,0
+1,Aalborg Universitet,Aalborg University Business School ,12,25,3,0.179609831343173,0.000707271357632097,0.666666666666667,1,0
+2,Aalborg Universitet,Aalborg University Business School ,12,25,3,0.167464408827236,0.0,1.0,0,0
+3,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,5,0.21002442433029,0.00809322370199931,0.8,1,0
+4,Aarhus Universitet,Institut for Miljøvidenskab,6,36,3,0.186848959468088,0.00233043756580485,1.0,0,0
+5,RUC,Institut for Naturvidenskab og Miljø,28,5,4,0.230041880809576,0.000510695205882163,0.75,1,0
+6,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,6,0.212252489133347,0.00254545609626261,0.666666666666667,1,0
+7,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,3,0.184850089004534,0.0,1.0,0,0
+8,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,37,2,1,0.00118203309692671,0.0,1.0,0,1
+9,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,30,4,3,0.00354609929078014,1.39885573600795e-06,1.0,0,2
+10,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,9,0.2139247090815,5.04391329461128e-06,1.0,0,0
+11,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,7,0.207899484844312,0.00333216495459492,0.857142857142857,1,0
+12,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,9,0.184850089004534,6.79441447101564e-05,1.0,0,0
+13,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,6,0.187494060684501,0.0007758467286415,1.0,0,0
+14,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,1,0.140611876470437,0.0,1.0,0,0
+15,Københavns Universitet,IFRO,22,15,2,0.186986821464744,0.0,1.0,0,0
+16,Københavns Universitet,IFRO,4,49,6,0.232078271085363,0.000156277532136682,1.0,0,0
+17,Københavns Universitet,IFRO,4,49,4,0.233647331307821,5.67360471027694e-05,0.75,1,0
+18,Københavns Universitet,IFRO,14,23,5,0.210198622083398,0.00115807877352225,0.8,1,0
+19,Københavns Universitet,Økonomisk Institut ,42,2,1,0.00118203309692671,0.0,1.0,0,3
+20,Københavns Universitet,Økonomisk Institut ,0,88,2,0.231160965666053,0.00119839814811434,1.0,0,0
+21,Københavns Universitet,Økonomisk Institut ,10,28,2,0.180977961455761,0.0,0.5,1,0
+22,SDU,SDU Climate Cluster,13,24,1,0.183378778600012,0.0,1.0,0,0
+23,SDU,SDU Climate Cluster,6,36,9,0.22838342327295,0.00518982259807385,0.444444444444444,4,0
+24,SDU,SDU Climate Cluster,17,16,1,0.153438630893169,0.0,1.0,0,0
+25,RUC,Institut for Naturvidenskab og Miljø,23,14,3,0.174618377601206,0.0,1.0,0,0
+26,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,8,0.209966422556103,0.000332446515387714,0.875,1,0
+27,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,5,43,3,0.194149238017275,0.0,1.0,0,0
+28,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,19,0.227767650112537,0.00290555479679672,0.842105263157895,2,0
+29,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,13,0.213384343551965,0.000988245753473907,0.846153846153846,2,0
+30,Aalborg Universitet,Aalborg University Business School ,12,25,10,0.200921885855087,0.0101825609502367,0.8,2,0
+31,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,7,0.213984918681579,0.00253347227238179,0.571428571428571,2,0
+32,Organisation w. few network members,,14,23,14,0.274968685741646,0.0296387820491793,0.214285714285714,5,0
+33,Københavns Universitet,,14,23,4,0.219103289935346,0.000301961287022715,0.25,2,0
+34,Aalborg Universitet,Aalborg University Business School ,8,35,2,0.172518360806819,0.0,1.0,0,0
+35,Aalborg Universitet,Aalborg University Business School ,4,49,3,0.214346889223471,0.00874907802143391,0.666666666666667,1,0
+36,Aalborg Universitet,Aalborg University Business School ,8,35,9,0.227835905326835,0.00299102299686227,0.888888888888889,1,0
+37,Aalborg Universitet,Aalborg University Business School ,9,35,10,0.2333604714781,0.0017759497125891,0.3,3,0
+38,Aarhus Universitet,Department of Economics and Business Economics,0,88,1,0.131537788248382,0.0,1.0,0,0
+39,Aarhus Universitet,Department of Economics and Business Economics,0,88,13,0.224009550994593,0.00365253631941435,1.0,0,0
+40,Aarhus Universitet,Department of Economics and Business Economics,10,28,2,0.146660574088667,0.00224096688908473,1.0,0,0
+41,Aarhus Universitet,Department of Economics and Business Economics,0,88,4,0.214226096386489,0.000274188879936378,1.0,0,0
+42,CBS,Center for Sustainiability,31,4,2,0.00265957446808511,5.59542294403178e-06,1.0,0,4
+43,CBS,Center for Sustainiability,1,61,3,0.212489775314603,0.000670656123776977,0.666666666666667,1,0
+44,CBS,Department of operations and management,6,36,2,0.160432246481462,0.0,1.0,0,0
+45,CBS,Department of organization,1,61,8,0.225738840877568,0.00448040449871268,0.75,1,0
+46,CBS,Økonomisk institut ,27,5,3,0.171429180625851,0.0,1.0,0,0
+47,CBS,Økonomisk institut ,27,5,3,0.171429180625851,0.0,1.0,0,0
+48,CBS,Økonomisk institut ,27,5,1,0.171351908063027,0.0,1.0,0,0
+49,CBS,Økonomisk institut ,8,35,7,0.225203914714351,0.00168891521388257,0.857142857142857,1,0
+50,CBS,Økonomisk institut ,0,88,1,0.147514244484992,0.0,1.0,0,0
+51,CBS,Økonomisk institut ,0,88,3,0.193310047311378,0.000116899325191307,1.0,0,0
+52,DTU,Centre for Absolute Sustainability,13,24,18,0.26144718572065,0.0120675873063353,0.5,4,0
+53,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,13,24,2,0.216175267579087,0.0,1.0,0,0
+54,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,5,0.21866218466369,0.00275298303052228,0.8,1,0
+55,CBS,Department of Finance,10,28,1,0.134588142339467,0.0,1.0,0,0
+56,CBS,Department of Finance,10,28,2,0.15368676290189,0.0,1.0,0,0
+57,CBS,Department of Finance,38,2,1,0.00118203309692671,0.0,1.0,0,5
+58,CBS,Department of Finance,22,15,1,0.160364567828654,0.0,1.0,0,0
+59,Aalborg Universitet,Aalborg University Business School ,8,35,5,0.20372144053474,0.00126706465899605,0.8,1,0
+60,Aalborg Universitet,Aalborg University Business School ,12,25,7,0.186665459385134,0.00609525313305893,0.857142857142857,1,0
+61,Aalborg Universitet,Aalborg University Business School ,12,25,7,0.204598604971919,0.00841709562160592,0.857142857142857,1,0
+62,Aalborg Universitet,Aalborg University Business School ,8,35,1,0.194746008216099,0.0,1.0,0,0
+63,Aalborg Universitet,Aalborg University Business School ,25,7,4,0.146293711001664,5.59542294403178e-06,1.0,0,0
+64,Aalborg Universitet,Aalborg University Business School ,39,2,1,0.00118203309692671,0.0,1.0,0,6
+65,Aalborg Universitet,Aalborg University Business School ,8,35,13,0.216668115154075,0.00494352747652852,0.923076923076923,1,0
+66,Aalborg Universitet,Aalborg University Business School ,29,4,4,0.159156042720463,0.00432133837324848,0.75,1,0
+67,Aalborg Universitet,Aalborg University Business School ,12,25,5,0.166620297189492,0.00172111906301379,1.0,0,0
+68,Aalborg Universitet,Aalborg University Business School ,8,35,19,0.245017214333113,0.0380856180666555,0.736842105263158,3,0
+69,Aalborg Universitet,Aalborg University Business School ,8,35,7,0.207672334355545,0.00125980966840534,0.857142857142857,1,0
+70,Aalborg Universitet,Aalborg University Business School ,3,51,4,0.171777771368199,0.00034215846650498,0.25,2,0
+71,Aalborg Universitet,Aalborg University Business School ,25,7,5,0.172753559662724,0.0045883944604199,1.0,0,0
+72,Aalborg Universitet,Aalborg University Business School ,25,7,4,0.210606209439238,0.0103851295106693,0.5,1,0
+73,Aalborg Universitet,Aalborg University Business School ,12,25,4,0.171738969070624,2.80771451033588e-05,1.0,0,0
+74,Aalborg Universitet,Aalborg University Business School ,8,35,2,0.207276013106775,0.000974610525461109,0.5,1,0
+75,Aalborg Universitet,Aalborg University Business School ,1,61,1,0.18503003555017,0.0,1.0,0,0
+76,Aalborg Universitet,Aalborg University Business School ,29,4,3,0.158856752209705,0.00235873589061712,0.666666666666667,1,0
+77,Aalborg Universitet,Aalborg University Business School ,8,35,3,0.186528070676067,7.7823033234614e-05,1.0,0,0
+78,Aalborg Universitet,Aalborg University Business School ,8,35,14,0.210781374015983,0.008772234720373,0.785714285714286,1,0
+79,Aalborg Universitet,Aalborg University Business School ,25,7,1,0.126756988342056,0.0,1.0,0,0
+80,Aalborg Universitet,Aalborg University Business School ,25,7,4,0.146293711001664,0.00224096688908473,1.0,0,0
+81,Aalborg Universitet,Aalborg University Business School ,12,25,5,0.176441962421826,0.00111212413538425,0.6,2,0
+82,Aalborg Universitet,Aalborg University Business School ,12,25,6,0.191749915782005,0.00288810483908274,0.5,1,0
+83,Aarhus Universitet,Department of Economics and Business Economics,0,88,4,0.208698439768227,0.00226110611223947,1.0,0,0
+84,Aarhus Universitet,Department of Economics and Business Economics,0,88,8,0.224737929670603,0.00551763948760968,0.875,1,0
+85,Aarhus Universitet,Department of Economics and Business Economics,0,88,1,0.115562914740181,0.0,1.0,0,0
+86,Aarhus Universitet,Department of Economics and Business Economics,0,88,3,0.202743577620173,1.55428415111994e-06,1.0,0,0
+87,Aarhus Universitet,Department of Economics and Business Economics,32,4,2,0.183378778600012,0.00670611439842209,0.5,1,0
+88,Aarhus Universitet,Department of Economics and Business Economics,40,2,1,0.00118203309692671,0.0,1.0,0,7
+89,Aarhus Universitet,Department of Economics and Business Economics,0,88,2,0.131583318808524,0.00224096688908473,1.0,0,0
+90,Aarhus Universitet,Department of Economics and Business Economics,0,88,17,0.269701460119067,0.031782293681308,0.764705882352941,3,0
+91,Aarhus Universitet,Department of Economics and Business Economics,0,88,3,0.15269901909533,0.00671170982136612,1.0,0,0
+92,Aarhus Universitet,Department of Economics and Business Economics,0,88,1,0.171082001817203,0.0,1.0,0,0
+93,Aarhus Universitet,Department of Economics and Business Economics,1,61,8,0.207729075430505,0.010958602157017,0.5,3,0
+94,Aarhus Universitet,Department of Economics and Business Economics,0,88,5,0.211132578749139,0.000424467923604821,1.0,0,0
+95,Aarhus Universitet,Department of Economics and Business Economics,0,88,5,0.19783721469572,0.00227234688219938,1.0,0,0
+96,Aarhus Universitet,Department of Economics and Business Economics,0,88,4,0.203122740068301,0.00224096688908473,1.0,0,0
+97,Aarhus Universitet,Department of Economics and Business Economics,32,4,2,0.132408292594157,0.00224096688908473,1.0,0,0
+98,Aarhus Universitet,Department of Economics and Business Economics,0,88,4,0.201187725873419,7.50959636156953e-05,1.0,0,0
+99,Aarhus Universitet,Department of Economics and Business Economics,8,35,3,0.194895774436209,0.00224096688908473,1.0,0,0
+100,Aarhus Universitet,Department of Economics and Business Economics,0,88,1,0.19267319211243,0.0,1.0,0,0
+101,Aarhus Universitet,Department of Economics and Business Economics,45,2,1,0.00118203309692671,0.0,1.0,0,8
+102,Aarhus Universitet,Department of Economics and Business Economics,8,35,4,0.196406204101175,0.00078413989856002,0.5,2,0
+103,CBS,Center for Sustainiability,1,61,1,0.202527548235389,0.0,1.0,0,0
+104,CBS,Center for Sustainiability,9,35,2,0.160499982283228,0.000544224288517204,0.5,1,0
+105,CBS,Center for Sustainiability,1,61,5,0.202365828074434,0.00295590443865465,0.8,1,0
+106,CBS,Center for Sustainiability,1,61,9,0.233002885711201,0.0128969493679988,0.555555555555556,3,0
+107,CBS,Center for Sustainiability,1,61,4,0.171390535634727,0.000289215494755414,1.0,0,0
+108,CBS,Department of operations and management,1,61,8,0.215684657042738,0.0107359569454259,0.625,3,0
+109,CBS,Department of operations and management,1,61,3,0.230530144352835,0.00567802559679272,0.333333333333333,2,0
+110,CBS,Department of organization,6,36,4,0.184715358618963,0.00446800312755366,1.0,0,0
+111,CBS,Department of organization,1,61,3,0.171777771368199,0.00224096688908473,1.0,0,0
+112,CBS,Department of organization,19,15,7,0.238634154449357,0.00751820248698044,0.571428571428571,3,0
+113,CBS,Department of organization,19,15,2,0.177347426189795,0.0,1.0,0,0
+114,CBS,Department of organization,6,36,1,0.154624449069687,0.0,1.0,0,0
+115,CBS,Department of organization,1,61,5,0.197991775019701,0.00275763757277203,1.0,0,0
+116,CBS,Department of organization,1,61,1,0.163819956060256,0.0,1.0,0,0
+117,CBS,Department of organization,1,61,5,0.204049494384232,0.00548915479818527,0.6,2,0
+118,CBS,Department of organization,19,15,8,0.231372007326735,0.00407580457038912,0.375,2,0
+119,CBS,Department of organization,1,61,5,0.198924232358883,0.00230044850259184,0.8,1,0
+120,CBS,Department of organization,1,61,3,0.17465849209181,0.000550074413409092,1.0,0,0
+121,CBS,Department of organization,1,61,3,0.174618377601206,0.00172284714752387,1.0,0,0
+122,CBS,Department of organization,19,15,22,0.276770446332599,0.063351698537932,0.363636363636364,5,0
+123,CBS,Department of organization,1,61,4,0.199865514215471,0.00184005171456703,1.0,0,0
+124,CBS,Department of organization,19,15,2,0.177347426189795,0.0,1.0,0,0
+125,CBS,Department of organization,1,61,1,0.142991990986581,0.0,1.0,0,0
+126,CBS,Department of organization,12,25,7,0.217847683689298,0.00639002655525777,0.285714285714286,5,0
+127,CBS,Department of organization,1,61,2,0.153624654692999,0.0,1.0,0,0
+128,CBS,Department of organization,1,61,8,0.224804380862108,0.00518717367878489,0.75,1,0
+129,CBS,Økonomisk institut ,0,88,9,0.230740035227815,0.0124224447277521,0.888888888888889,1,0
+130,CBS,Økonomisk institut ,0,88,3,0.186253899087616,8.07839187544589e-06,1.0,0,0
+131,CBS,Økonomisk institut ,0,88,3,0.193506850617371,0.000952217407641384,0.666666666666667,1,0
+132,CBS,Økonomisk institut ,10,28,1,0.134588142339467,0.0,1.0,0,0
+133,CBS,Økonomisk institut ,0,88,1,0.185617289080969,0.0,1.0,0,0
+134,CBS,Økonomisk institut ,0,88,1,0.174418081228642,0.0,1.0,0,0
+135,CBS,Økonomisk institut ,1,61,1,0.172401001377699,0.0,1.0,0,0
+136,DTU,Centre for Absolute Sustainability,13,24,18,0.245254327766339,0.00523666037642574,0.611111111111111,4,0
+137,DTU,Centre for Absolute Sustainability,13,24,4,0.225003970427834,0.000111244571962179,0.75,1,0
+138,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,2,52,2,0.178429574296092,0.0,1.0,0,0
+139,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,13,0.235967851047688,0.00403426066121884,0.461538461538462,2,0
+140,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,11,0.216729879154974,0.00587570340793322,0.545454545454545,2,0
+141,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,19,0.239310171884057,0.00974172762649425,0.473684210526316,2,0
+142,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,2,52,2,0.180633978635222,0.0,1.0,0,0
+143,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,4,0.184580824490325,0.000230377602416265,1.0,0,0
+144,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,2,0.171816591203537,0.0,1.0,0,0
+145,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,17,0.249520320339892,0.00796330142789075,0.411764705882353,3,0
+146,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,8,0.206207869833374,0.00513564776340566,0.75,1,0
+147,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,3,0.188797719412876,0.000259291693748193,1.0,0,0
+148,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,7,0.20350332336072,0.000501163868276938,0.714285714285714,1,0
+149,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,3,0.178220444462178,0.00224096688908473,1.0,0,0
+150,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,7,0.2205012807644,0.00356900950209221,0.571428571428571,2,0
+151,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,9,0.23662882542037,0.00250365319716791,0.888888888888889,1,0
+152,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,20,0.252755457471958,0.015071686943809,0.4,5,0
+153,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,13,24,17,0.255215983912605,0.0071270554086809,0.588235294117647,4,0
+154,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,2,52,11,0.242361624506105,0.00598048195654808,0.636363636363636,4,0
+155,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,2,52,11,0.21954617847983,0.0110157992458801,0.727272727272727,3,0
+156,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,3,0.203068487199693,0.000366004829359883,0.666666666666667,1,0
+157,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,2,52,4,0.219229647080637,0.00356428115180125,0.5,2,0
+158,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,9,35,7,0.238859068826783,0.001974643462305,0.428571428571429,3,0
+159,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,10,0.217972596351964,0.0056696025655126,0.7,3,0
+160,CBS,Department of Finance,22,15,5,0.203776042904221,0.00152238194908452,0.8,1,0
+161,CBS,Department of Finance,22,15,5,0.192966603064886,0.00514040857186917,0.6,2,0
+162,Aarhus Universitet,Department of Economics and Business Economics,0,88,17,0.233288866546686,0.0313558456217559,0.823529411764706,2,0
+163,Aarhus Universitet,Department of Economics and Business Economics,0,88,4,0.187771898265164,4.77109724245567e-06,1.0,0,0
+164,CBS,Department of operations and management,1,61,3,0.192234744899027,0.000165550834767542,0.666666666666667,1,0
+165,DTU,Centre for Absolute Sustainability,6,36,12,0.232361985353194,0.00821026513399911,0.5,3,0
+166,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,2,52,4,0.190739692944217,0.000527433864096239,1.0,0,0
+167,SDU ,Økonomisk Institut ,2,52,4,0.212015732313344,0.00146192490728319,1.0,0,0
+168,SDU,SDU Climate Cluster,13,24,26,0.265093589984536,0.0359103491289616,0.384615384615385,9,0
+169,Aalborg Universitet,Aalborg University Business School ,12,25,6,0.19691489667849,0.00498827028451182,0.666666666666667,2,0
+170,DTU,Centre for Absolute Sustainability,13,24,2,0.18912647166061,0.0,1.0,0,0
+171,CBS,Center for Sustainiability,31,4,2,0.00265957446808511,5.59542294403178e-06,1.0,0,4
+172,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,8,0.180334064534073,2.17014724117566e-05,1.0,0,0
+173,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,1,0.156566807264343,0.0,1.0,0,0
+174,Aalborg Universitet,Institut for Politik og Samfund,3,51,5,0.1788913920178,0.00119448492601134,0.4,1,0
+175,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,4,0.200603803713892,0.00157719998691848,0.75,1,0
+176,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,4,0.177223407010641,0.00171689878649378,0.5,2,0
+177,Københavns Universitet,Økonomisk Institut ,22,15,5,0.225537946032527,0.00298640256083589,0.6,2,0
+178,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,2,0.186436590504083,0.0,1.0,0,0
+179,Aalborg Universitet,Institut for Politik og Samfund,7,36,2,0.206600113064035,0.00295995421084647,0.5,1,0
+180,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,3,0.167206601292204,6.9942786800397e-07,1.0,0,0
+181,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,5,0.219356150050678,0.0081751247057232,0.8,1,0
+182,Aalborg Universitet,Aalborg University Business School ,8,35,4,0.206881201653238,0.000804454959838989,0.75,1,0
+183,Aalborg Universitet,Aalborg University Business School ,8,35,3,0.181756733462981,9.57353403932699e-05,1.0,0,0
+184,Aalborg Universitet,Aalborg University Business School ,8,35,3,0.198768213353111,0.000509142551887109,1.0,0,0
+185,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,33,3,2,0.00236406619385343,0.0,1.0,0,9
+186,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,1,0.171894283535078,0.0,1.0,0,0
+187,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,2,0.185571983420954,0.0,1.0,0,0
+188,Københavns Universitet,Økonomisk Institut ,0,88,1,0.168990534802323,0.0,1.0,0,0
+189,DREAM - Danish Research Instutiute for Economic Analysis and Modelling,,0,88,5,0.242438908187388,0.00694393410185692,0.8,1,0
+190,Nationalbanken,Nationalbankens forskningsenhed,35,3,2,0.00236406619385343,2.79771147201589e-06,1.0,0,10
+191,Nationalbanken,Nationalbankens forskningsenhed,35,3,1,0.00157604412923562,0.0,1.0,0,10
+192,Nationalbanken,Nationalbankens forskningsenhed,38,2,1,0.00118203309692671,0.0,1.0,0,5
+193,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,7,0.213624168607938,5.01292387892566e-05,1.0,0,0
+194,RUC,Institut for Naturvidenskab og Miljø,5,43,6,0.20682492276269,3.85645429975522e-05,1.0,0,0
+195,RUC,Institut for Naturvidenskab og Miljø,24,13,4,0.182805582129274,0.0,1.0,0,0
+196,RUC,Institut for Naturvidenskab og Miljø,24,13,4,0.189361996531918,0.000460193832489096,0.75,1,0
+197,RUC,Institut for Naturvidenskab og Miljø,5,43,13,0.221400237645792,0.0027316609206926,0.846153846153846,1,0
+198,RUC,Institut for Naturvidenskab og Miljø,18,16,4,0.163432591589779,0.0,1.0,0,0
+199,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,1,0.198664336575817,0.0,1.0,0,0
+200,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,5,43,2,0.19850872482393,0.0,1.0,0,0
+201,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,1,0.161866812023771,0.0,1.0,0,0
+202,Aalborg Universitet,Aalborg University Business School ,1,61,4,0.20537234361849,0.00112763660227357,0.5,2,0
+203,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,3,0.205650099019651,0.000537829216402434,0.666666666666667,1,0
+204,CBS,Department of operations and management,1,61,3,0.194198829138097,0.00049815848196295,1.0,0,0
+205,Aarhus Universitet,Department of Economics and Business Economics,0,88,2,0.181713292561102,0.00893029501867473,1.0,0,0
+206,CBS,Department of organization,1,61,3,0.186711300607969,0.00210525540120822,1.0,0,0
+207,DTU,Centre for Absolute Sustainability,13,24,8,0.227631262298099,0.00420897239648626,1.0,0,0
+208,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,13,24,2,0.21095683020967,0.0,1.0,0,0
+209,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,1,0.189409171917202,0.0,1.0,0,0
+210,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,5,0.225471060520655,0.0,1.0,0,0
+211,Københavns Universitet,,10,28,8,0.207332537789924,0.0142583423250658,0.625,2,0
+212,CBS, Institut for International Economics &Business,16,20,4,0.192137583036556,0.0106356443222419,0.75,1,0
+213,Københavns Universitet,Økonomisk Institut ,20,15,13,0.231583434686461,0.0138677622035659,0.307692307692308,4,0
+214,SDU,SDU Climate Cluster,5,43,14,0.235602236156074,0.00981083851406658,0.714285714285714,3,0
+215,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,21,0.246927059459451,0.00903646387337046,0.571428571428571,4,0
+216,SDU,SDU Climate Cluster,8,35,3,0.197528816855196,0.000928535180706859,1.0,0,0
+217,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,9,0.231583434686461,0.00655271204225329,0.555555555555556,3,0
+218,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,3,0.184850089004534,0.0,1.0,0,0
+219,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,10,0.184895042819954,0.000154303098618008,1.0,0,0
+220,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,13,0.226141706149807,0.0155502000219098,0.769230769230769,2,0
+221,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,5,0.226613536833279,0.00323808205714157,0.6,2,0
+222,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,3,0.175586239278441,0.0,1.0,0,0
+223,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,5,0.181974249898432,0.000383006632994535,1.0,0,0
+224,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,11,0.227563129624559,0.00859989133470979,0.636363636363636,2,0
+225,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,21,0.235237752498654,0.00371041305094619,0.714285714285714,4,0
+226,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,11,0.215379154695652,0.00262365819885966,0.818181818181818,1,0
+227,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,15,0.255817098275791,0.00180443668325768,0.8,3,0
+228,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,16,0.21513537523363,0.00816920799026692,0.875,1,0
+229,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,13,0.23487439483338,0.00103198009434707,0.846153846153846,2,0
+230,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,3,0.202204365977566,0.000181675510654558,1.0,0,0
+231,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,13,0.241361401928778,0.00389749281757068,0.692307692307692,4,0
+232,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,6,0.20372144053474,0.00259192231161707,0.666666666666667,1,0
+233,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,9,0.195648074131665,0.00417099331329978,0.777777777777778,2,0
+234,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,8,0.225872969719444,0.01131592740329,0.75,2,0
+235,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,2,0.178345863494171,0.0,1.0,0,0
+236,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,11,0.223811720952502,0.00640485890375997,1.0,0,0
+237,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,14,0.187494060684501,0.0030308805843473,1.0,0,0
+238,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,9,35,8,0.239159614997059,0.00126739145268638,0.625,2,0
+239,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,11,0.23451215795054,0.0154541584094287,0.363636363636364,5,0
+240,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,9,35,26,0.265835110515962,0.0290152833255886,0.307692307692308,8,0
+241,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,4,0.191267526056767,0.000448473836386432,1.0,0,0
+242,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,16,0.258425702269086,0.00275234028061791,0.875,2,0
+243,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,7,0.204598604971919,0.00102344297360794,0.857142857142857,1,0
+244,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,5,0.205984398828407,0.00088520128654509,0.8,1,0
+245,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,8,0.222566866532684,0.00241961002325553,0.875,1,0
+246,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,5,0.199080496484852,0.0,1.0,0,0
+247,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,11,0.231160965666053,0.00534824872227801,0.636363636363636,2,0
+248,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,18,0.261897490897572,0.00729470476141732,0.833333333333333,3,0
+249,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,5,0.200339503577246,0.000825800824209764,0.8,1,0
+250,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,6,0.229417144259399,0.00808790513500666,0.333333333333333,2,0
+251,Aalborg Universitet,Institut for Politik og Samfund,4,49,1,0.149486515154473,0.0,1.0,0,0
+252,Aalborg Universitet,Institut for Politik og Samfund,7,36,7,0.201347567816645,0.00230137089345131,0.857142857142857,1,0
+253,Aalborg Universitet,Institut for Politik og Samfund,6,36,3,0.222176626556297,0.00602104885451747,0.666666666666667,1,0
+254,Aalborg Universitet,Institut for Politik og Samfund,7,36,5,0.197734308472211,0.00036375172186012,1.0,0,0
+255,Aalborg Universitet,Institut for Politik og Samfund,7,36,8,0.234295351641186,0.00401865423726365,0.75,2,0
+256,Aalborg Universitet,Institut for Politik og Samfund,7,36,4,0.193654716269906,0.000138979458264671,0.75,1,0
+257,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,4,0.165064788553115,0.00224292528711514,1.0,0,0
+258,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,5,0.218788033403065,0.00184870902984391,0.8,1,0
+259,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,1,0.161385781378826,0.0,1.0,0,0
+260,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,1,0.206040221158713,0.0,1.0,0,0
+261,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,13,0.228452048099654,0.021429020791326,0.692307692307692,2,0
+262,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,4,0.189361996531918,5.5771662327356e-05,1.0,0,0
+263,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,2,0.166620297189492,0.0,1.0,0,0
+264,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,6,0.194447165236739,0.00504861602980938,0.833333333333333,1,0
+265,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,6,0.185980532308134,0.00149043545164599,1.0,0,0
+266,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,6,0.195799231541501,0.00239396781476442,1.0,0,0
+267,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,6,0.220054534320015,0.00434031036254864,0.833333333333333,1,0
+268,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,8,0.183511565550483,0.00271410486612158,0.875,1,0
+269,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,8,0.184895042819954,0.00216656557662473,1.0,0,0
+270,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,3,0.188097084630295,0.000712361312161543,1.0,0,0
+271,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,5,0.167649044338622,6.84203833147638e-05,1.0,0,0
+272,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,7,0.205261451424312,0.00180902927008717,1.0,0,0
+273,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,3,0.18521033278335,0.000165019344047969,1.0,0,0
+274,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,5,0.172792821835375,7.54477073745687e-05,1.0,0,0
+275,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,6,0.199708015780313,0.000155400336359356,1.0,0,0
+276,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,6,0.176523895072127,0.000412197286411721,0.666666666666667,1,0
+277,CBS, Institut for International Economics &Business,16,20,6,0.192089038927653,0.00716110778333148,0.833333333333333,1,0
+278,CBS, Institut for International Economics &Business,16,20,4,0.164814310877011,0.000147268217505587,1.0,0,0
+279,CBS, Institut for International Economics &Business,16,20,1,0.148988519709122,0.0,1.0,0,0
+280,CBS, Institut for International Economics &Business,9,35,4,0.179271024776149,0.0084314675382496,0.75,1,0
+281,CBS, Institut for International Economics &Business,16,20,2,0.137013590930916,0.00447633835522543,1.0,0,0
+282,CBS, Institut for International Economics &Business,47,2,1,0.00118203309692671,0.0,1.0,0,11
+283,CBS, Institut for International Economics &Business,16,20,2,0.159993353551273,0.00670611439842209,1.0,0,0
+284,Københavns Universitet,IFRO,4,49,6,0.20693751118009,0.00697866955823368,0.166666666666667,3,0
+285,Københavns Universitet,IFRO,4,49,19,0.2593955701384,0.0202909305905233,0.526315789473684,4,0
+286,Københavns Universitet,IFRO,4,49,8,0.236481622418554,0.00336746822275569,0.5,3,0
+287,Københavns Universitet,IFRO,14,23,1,0.16012814154921,0.0,1.0,0,0
+288,Københavns Universitet,IFRO,4,49,6,0.20537234361849,0.00268048570764051,0.666666666666667,1,0
+289,Københavns Universitet,IFRO,22,15,7,0.238634154449357,0.00496700651586328,0.428571428571429,2,0
+290,Københavns Universitet,IFRO,3,51,2,0.2139247090815,0.00096829529744187,0.5,1,0
+291,Københavns Universitet,IFRO,14,23,3,0.189079436974795,0.000243134334133318,0.666666666666667,1,0
+292,Københavns Universitet,IFRO,5,43,13,0.247489718774626,0.0162904937763349,0.461538461538462,5,0
+293,Københavns Universitet,IFRO,4,49,5,0.219292880321791,0.0006881150205127,0.4,2,0
+294,Københavns Universitet,IFRO,5,43,11,0.24059760002394,0.00611757555914308,0.545454545454545,3,0
+295,Københavns Universitet,IFRO,4,49,9,0.236261160993055,0.00714391967233835,0.666666666666667,1,0
+296,Københavns Universitet,IFRO,4,49,4,0.222566866532684,0.00240641172273843,0.75,1,0
+297,Københavns Universitet,IFRO,4,49,7,0.213684209127501,0.00144170641885575,1.0,0,0
+298,Københavns Universitet,IFRO,4,49,10,0.260640526594326,0.00164331269642302,0.8,2,0
+299,Københavns Universitet,IFRO,4,49,1,0.168840421069432,0.0,1.0,0,0
+300,Københavns Universitet,Økonomisk Institut ,0,88,2,0.179059919000389,0.0,1.0,0,0
+301,Københavns Universitet,Økonomisk Institut ,22,15,1,0.169820955120762,0.0,1.0,0,0
+302,Københavns Universitet,Økonomisk Institut ,0,88,2,0.20049800001995,0.0,1.0,0,0
+303,Københavns Universitet,Økonomisk Institut ,10,28,2,0.166401491809072,0.000131347000153832,1.0,0,0
+304,Københavns Universitet,Økonomisk Institut ,0,88,1,0.167316992974395,0.0,1.0,0,0
+305,Københavns Universitet,Økonomisk Institut ,0,88,4,0.213684209127501,0.00475529210299855,1.0,0,0
+306,Københavns Universitet,Økonomisk Institut ,41,2,1,0.00118203309692671,0.0,1.0,0,12
+307,Københavns Universitet,Økonomisk Institut ,0,88,5,0.213864533354613,0.00833880253055323,1.0,0,0
+308,Københavns Universitet,Økonomisk Institut ,0,88,2,0.174618377601206,0.0,1.0,0,0
+309,Københavns Universitet,Økonomisk Institut ,42,2,1,0.00118203309692671,0.0,1.0,0,3
+310,Københavns Universitet,Økonomisk Institut ,0,88,3,0.19238067208392,0.000282456689674238,1.0,0,0
+311,Københavns Universitet,Økonomisk Institut ,10,28,3,0.163996638497768,0.000183854852077911,1.0,0,0
+312,Københavns Universitet,Økonomisk Institut ,10,28,4,0.173383903323979,0.00447633835522543,1.0,0,0
+313,Københavns Universitet,Økonomisk Institut ,24,13,2,0.168168196433455,0.000305549675908196,0.5,1,0
+314,Københavns Universitet,Økonomisk Institut ,0,88,3,0.17465849209181,0.00224096688908473,1.0,0,0
+315,Københavns Universitet,Økonomisk Institut ,43,2,1,0.00118203309692671,0.0,1.0,0,13
+316,SDU,Center for Bæredygtig Erhvervsfremme,8,35,5,0.202960068359757,0.00469213156669279,1.0,0,0
+317,SDU,SDU Climate Cluster,17,16,3,0.176811259552477,7.49150830983892e-05,1.0,0,0
+318,SDU,SDU Climate Cluster,15,20,2,0.214588884017965,0.0,1.0,0,0
+319,SDU,SDU Climate Cluster,5,43,3,0.217101203905097,0.000917445970524379,0.666666666666667,1,0
+320,SDU,SDU Climate Cluster,15,20,5,0.226478527279014,0.000592622722500024,0.4,3,0
+321,SDU,SDU Climate Cluster,17,16,2,0.177762079980278,0.00197601831851239,0.5,1,0
+322,SDU,SDU Climate Cluster,10,28,1,0.160330749910512,0.0,1.0,0,0
+323,SDU,SDU Climate Cluster,29,4,1,0.136301257812056,0.0,1.0,0,0
+324,SDU,SDU Climate Cluster,17,16,1,0.148522839631891,0.0,1.0,0,0
+325,SDU,SDU Climate Cluster,0,88,8,0.235310558983488,0.0222718800317275,0.125,4,0
+326,SDU,SDU Climate Cluster,8,35,6,0.205984398828407,0.0011343302962603,0.833333333333333,1,0
+327,SDU,SDU Climate Cluster,17,16,5,0.176074204741929,0.00671450753283814,1.0,0,0
+328,SDU,SDU Climate Cluster,17,16,7,0.181496399158666,0.00621547459516443,0.857142857142857,1,0
+329,SDU,SDU Climate Cluster,17,16,4,0.176811259552477,0.00245508566869022,1.0,0,0
+330,SDU,SDU Climate Cluster,17,16,2,0.131446821589843,0.00224096688908473,1.0,0,0
+331,SDU,SDU Climate Cluster,5,43,3,0.200709719132959,0.00224096688908473,1.0,0,0
+332,SDU,SDU Climate Cluster,17,16,1,0.148522839631891,0.0,1.0,0,0
+333,SDU,SDU Climate Cluster,17,16,3,0.183025617736074,0.00408942684894081,1.0,0,0
+334,SDU,SDU Climate Cluster,23,14,1,0.172792821835375,0.0,1.0,0,0
+335,SDU,SDU Climate Cluster,4,49,9,0.248054948148662,0.00319615786627461,0.444444444444444,2,0
+336,SDU,SDU Climate Cluster,12,25,2,0.175586239278441,0.0,0.5,1,0
+337,SDU,SDU Climate Cluster,17,16,2,0.15239294770007,0.0,1.0,0,0
+338,RUC,Institut for Naturvidenskab og Miljø,23,14,4,0.196051680267058,0.00223056044666638,0.5,2,0
+339,RUC,Institut for Naturvidenskab og Miljø,24,13,4,0.170124953250313,0.00037163812842838,0.5,2,0
+340,RUC,Institut for Naturvidenskab og Miljø,24,13,8,0.211779503085139,0.00421396160047986,0.875,1,0
+341,RUC,Institut for Naturvidenskab og Miljø,18,16,10,0.187957581230074,0.00694825318129536,0.9,1,0
+342,RUC,Institut for Naturvidenskab og Miljø,5,43,1,0.174859341323747,0.0,1.0,0,0
+343,RUC,Institut for Naturvidenskab og Miljø,18,16,7,0.169103295390492,8.70877849096453e-05,1.0,0,0
+344,RUC,Institut for Naturvidenskab og Miljø,23,14,7,0.195296279495415,0.00215796484253343,0.714285714285714,1,0
+345,RUC,Institut for Naturvidenskab og Miljø,18,16,8,0.175181662690242,0.000210469491856838,1.0,0,0
+346,RUC,Institut for Naturvidenskab og Miljø,5,43,9,0.218599314570342,0.0018597569375404,0.888888888888889,1,0
+347,RUC,Institut for Naturvidenskab og Miljø,23,14,12,0.212549179780724,0.00986015866584327,0.75,1,0
+348,RUC,Institut for Naturvidenskab og Miljø,23,14,6,0.185844149615167,0.000584391563516934,0.833333333333333,1,0
+349,RUC,Institut for Naturvidenskab og Miljø,18,16,12,0.19595062269991,0.00931766996828976,0.916666666666667,1,0
+350,RUC,Institut for Naturvidenskab og Miljø,18,16,1,0.129675663666323,0.0,1.0,0,0
+351,RUC,Institut for Naturvidenskab og Miljø,5,43,18,0.233503813291047,0.0126289342491463,0.777777777777778,4,0
+352,RUC,Institut for Naturvidenskab og Miljø,23,14,5,0.206993851368268,0.0003744460553104,0.6,1,0
+353,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,6,0.195145897350013,0.00224236324403977,1.0,0,0
+354,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,15,0.210606209439238,0.00305775935072533,0.733333333333333,2,0
+355,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,9,0.215623487259118,0.00190837868164726,0.777777777777778,1,0
+356,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,19,0.242052981876998,0.00449197775822644,0.68421052631579,4,0
+357,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,26,6,2,0.158657849765369,0.0,1.0,0,0
+358,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,5,0.203068487199693,0.000325991617607883,0.4,1,0
+359,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,12,0.216977287692823,0.00078479016321645,0.833333333333333,2,0
+360,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,26,6,3,0.160094423262929,1.97623888955135e-05,1.0,0,0
+361,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,8,0.212668088412769,0.000139355763916361,0.875,1,0
+362,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,3,0.19783721469572,8.73526812612134e-05,1.0,0,0
+363,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,17,0.237664400148687,0.0146863664936977,0.705882352941176,4,0
+364,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,2,0.163961271528068,9.3257049067196e-07,1.0,0,0
+365,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,5,43,9,0.237145482244432,0.00334890012908736,0.111111111111111,6,0
+366,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,3,0.194596471992744,3.93779454669789e-05,0.666666666666667,1,0
+367,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,11,0.215379154695652,0.00558665324148206,0.636363636363636,2,0
+368,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,13,0.224406262123864,0.00217503462586344,0.769230769230769,2,0
+369,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,13,0.244387147565301,0.0118931309678095,0.384615384615385,2,0
+370,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,5,43,10,0.224804380862108,0.00137443160986166,0.6,2,0
+371,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,15,0.241745124348378,0.0019884097834554,0.8,2,0
+372,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,15,0.225003970427834,0.0025281240884349,0.866666666666667,1,0
+373,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,5,43,2,0.182410848386672,0.0,1.0,0,0
+374,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,6,36,7,0.20846954101334,0.00663711782827337,0.571428571428571,2,0
+375,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,16,0.25125195508118,0.0156051404594752,0.6875,3,0
+376,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,15,0.255473258089936,0.034989924908119,0.2,6,0
+377,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,7,0.218851012111586,0.000275690142099617,0.857142857142857,1,0
+378,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,8,0.222893115237658,0.00274603291725715,0.75,2,0
+379,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,1,0.174618377601206,0.0,1.0,0,0
+380,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,8,0.229347938484359,0.00719216347467147,0.625,3,0
+381,Københavns Universitet,IFRO,14,23,5,0.192624377014353,0.0024582880912229,1.0,0,0
+382,Københavns Universitet,Økonomisk Institut ,10,28,6,0.182805582129274,0.00219231133997904,0.833333333333333,1,0
+383,Københavns Universitet,Økonomisk Institut ,0,88,6,0.222371575336546,0.00214385459859376,1.0,0,0
+384,Københavns Universitet,Økonomisk Institut ,0,88,3,0.2032856727475,4.26781425020015e-05,1.0,0,0
+385,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,4,0.225671836175616,0.00403479473007015,0.75,1,0
+386,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,11,0.22374585523121,0.00311555683676216,1.0,0,0
+387,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,26,6,3,0.160094423262929,0.000264266690670273,1.0,0,0
+388,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,16,0.227904201461526,0.0140509953412074,0.75,4,0
+389,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,9,0.227155188549641,0.00152900001077048,0.333333333333333,4,0
+390,RUC,Institut for Naturvidenskab og Miljø,23,14,5,0.20049800001995,0.00148916075053335,0.8,1,0
+391,RUC,Institut for Naturvidenskab og Miljø,18,16,4,0.227904201461526,0.0142087329034581,0.5,2,0
+392,RUC,Institut for Naturvidenskab og Miljø,23,14,7,0.179864777874533,0.00320154216994521,0.428571428571429,2,0
+393,RUC,Institut for Naturvidenskab og Miljø,18,16,4,0.188190201998923,0.00190346902740596,0.75,1,0
+394,RUC,Institut for Naturvidenskab og Miljø,5,43,5,0.219863625238765,0.00164888644930201,0.8,1,0
+395,RUC,Institut for Naturvidenskab og Miljø,23,14,2,0.171429180625851,9.3257049067196e-07,1.0,0,0
+396,RUC,Institut for Naturvidenskab og Miljø,23,14,4,0.182761638479724,0.000374780200163029,0.75,1,0
+397,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,13,0.229972297663536,0.00287023038443557,0.615384615384615,3,0
+398,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,4,0.180462477112663,0.000349382761210319,1.0,0,0
+399,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,18,0.239914299802982,0.00937723859473289,0.777777777777778,3,0
+400,Aarhus Universitet,Institut for Miljøvidenskab,6,36,1,0.179017757493678,0.0,1.0,0,0
+401,SDU,SDU Climate Cluster,0,88,1,0.163714129215256,0.0,1.0,0,0
+402,Københavns Universitet,IFRO,0,88,1,0.143776175505985,0.0,1.0,0,0
+403,Aalborg Universitet,Aalborg University Business School ,12,25,6,0.202960068359757,0.00572384085165955,0.666666666666667,2,0
+404,Aalborg Universitet,Aalborg University Business School ,0,88,1,0.183113780365041,0.0,1.0,0,0
+405,Aalborg Universitet,Aalborg University Business School ,12,25,1,0.167206601292204,0.0,1.0,0,0
+406,Aalborg Universitet,Aalborg University Business School ,12,25,1,0.15721431267073,0.0,1.0,0,0
+407,Aalborg Universitet,Aalborg University Business School ,12,25,3,0.175626799740275,0.000450378376364794,0.666666666666667,1,0
+408,SDU,SDU Climate Cluster,6,36,2,0.208412394757579,0.0,0.5,1,0
+409,DREAM - Danish Research Instutiute for Economic Analysis and Modelling,,0,88,1,0.193113643910503,0.0,1.0,0,0
+410,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,8,0.213864533354613,4.17795498184446e-06,1.0,0,0
+411,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,7,0.212965942878333,7.4938700143283e-07,1.0,0,0
+412,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,10,0.184895042819954,0.000140813718593616,1.0,0,0
+413,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,7,0.179059919000389,8.71429633522816e-05,1.0,0,0
+414,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,8,0.213864533354613,4.64424022718044e-06,1.0,0,0
+415,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,1,0.184133789313551,0.0,1.0,0,0
+416,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,4,0.204708781926669,0.00483587357904368,0.75,1,0
+417,Københavns Universitet,IFRO,4,49,1,0.180291300942767,0.0,1.0,0,0
+418,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,2,0.190309991508298,0.0,1.0,0,0
+419,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,1,0.162977152427792,0.0,1.0,0,0
+420,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,1,0.17636010579347,0.0,1.0,0,0
+421,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,2,0.177678994175193,0.0,1.0,0,0
+422,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,2,0.20537234361849,6.06393455772677e-05,0.5,1,0
+423,RUC,Institut for Naturvidenskab og Miljø,5,43,9,0.215991027294219,0.000940824859782517,0.777777777777778,2,0
+424,Aalborg Universitet,Aalborg University Business School ,20,15,3,0.193260909017705,0.0,1.0,0,0
+425,Aalborg Universitet,Aalborg University Business School ,8,35,1,0.195849669262146,0.0,1.0,0,0
+426,Aalborg Universitet,Aalborg University Business School ,25,7,2,0.146181199014738,0.0,1.0,0,0
+427,CBS,Department of organization,19,15,2,0.219990861133001,0.0,1.0,0,0
+428,CBS,Økonomisk institut ,22,15,1,0.156341438633693,0.0,1.0,0,0
+429,Aalborg Universitet,Aalborg University Business School ,29,4,2,0.144294632012839,0.0,1.0,0,0
+430,Aalborg Universitet,Aalborg University Business School ,8,35,1,0.195849669262146,0.0,1.0,0,0
+431,DTU,Centre for Absolute Sustainability,13,24,1,0.204984744156282,0.0,1.0,0,0
+432,DTU,Centre for Absolute Sustainability,13,24,2,0.2172252617359,0.0,1.0,0,0
+433,DTU,Centre for Absolute Sustainability,13,24,3,0.218160234168049,0.0,0.666666666666667,1,0
+434,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,3,0.202851765228295,0.000147356168124082,0.666666666666667,1,0
+435,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,2,0.182893532854378,0.00011365144699008,1.0,0,0
+436,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,2,52,1,0.178304037541194,0.0,1.0,0,0
+437,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,20,15,1,0.173463019866678,0.0,1.0,0,0
+438,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,13,24,4,0.219609594475924,3.69428199925408e-05,0.75,1,0
+439,Aarhus Universitet,Institut for Miljøvidenskab,28,5,2,0.217101203905097,0.0,1.0,0,0
+440,SDU,SDU Climate Cluster,5,43,2,0.194646291878047,0.0,1.0,0,0
+441,Aalborg Universitet,Aalborg University Business School ,16,20,3,0.164778590393509,0.0,1.0,0,0
+442,Aalborg Universitet,Aalborg University Business School ,12,25,5,0.186345200018542,0.00104633357694776,0.6,1,0
+443,Aalborg Universitet,Aalborg University Business School ,12,25,2,0.175829883458754,0.0,1.0,0,0
+444,CBS, Institut for International Economics &Business,16,20,1,0.106348918180955,0.0,1.0,0,0
+445,CBS, Institut for International Economics &Business,9,35,2,0.133407337440893,0.00447633835522543,1.0,0,0
+446,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,6,36,1,0.15611671788001,0.0,1.0,0,0
+447,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,6,0.194795904708084,0.000443577914935275,1.0,0,0
+448,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,2,0.170201122918211,0.0,1.0,0,0
+449,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,30,4,2,0.00265957446808511,0.0,1.0,0,2
+450,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,4,0.177058317670156,0.000133444633152234,1.0,0,0
+451,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,11,0.183733304996532,0.000273061028639196,1.0,0,0
+452,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,3,0.206600113064035,0.0,1.0,0,0
+453,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,2,0.170277360823214,0.0,1.0,0,0
+454,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,5,0.19778574819866,0.00288098691017109,0.8,1,0
+455,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,3,0.199708015780313,0.000717833442228243,0.666666666666667,1,0
+456,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,5,0.199970651256089,0.00195874638069794,1.0,0,0
+457,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,4,0.170430041711645,0.0,1.0,0,0
+458,Aarhus Universitet,Department of Economics and Business Economics,44,2,1,0.00118203309692671,0.0,1.0,0,14
+459,Aarhus Universitet,Department of Economics and Business Economics,0,88,1,0.181236809553194,0.0,1.0,0,0
+460,Aarhus Universitet,Department of Economics and Business Economics,0,88,3,0.212727592634485,0.0,1.0,0,0
+461,Aarhus Universitet,Institut for Miljøvidenskab,28,5,2,0.214831425847881,0.0,1.0,0,0
+462,CBS,Center for Sustainiability,31,4,1,0.00177304964539007,0.0,1.0,0,4
+463,CBS,Center for Sustainiability,9,35,1,0.104163367046945,0.0,1.0,0,0
+464,CBS,Center for Sustainiability,31,4,1,0.00177304964539007,0.0,1.0,0,4
+465,CBS,Department of organization,1,61,3,0.179144301620087,0.0,1.0,0,0
+466,CBS,Department of organization,19,15,2,0.177347426189795,0.0,1.0,0,0
+467,CBS,Department of organization,19,15,4,0.195446893592712,0.000755201881267405,1.0,0,0
+468,CBS,Department of organization,19,15,3,0.183511565550483,0.0,1.0,0,0
+469,CBS,Department of organization,1,61,7,0.193408398899936,0.00229469080540326,1.0,0,0
+470,CBS,Department of organization,19,15,1,0.214286475782314,0.0,1.0,0,0
+471,CBS,Økonomisk institut ,27,5,3,0.171429180625851,0.0,1.0,0,0
+472,DTU,Centre for Absolute Sustainability,13,24,6,0.246686702166012,0.000384783140550561,0.833333333333333,1,0
+473,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,1,0.187401630780293,0.0,1.0,0,0
+474,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,2,0.169442481853276,0.0,1.0,0,0
+475,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,3,0.188657175204876,1.77105500524628e-05,0.666666666666667,1,0
+476,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,3,0.177347426189795,0.0,1.0,0,0
+477,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,13,24,3,0.217287343834138,1.51542704734194e-06,1.0,0,0
+478,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,13,24,4,0.219229647080637,0.000710446568182944,0.5,2,0
+479,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,2,0.191701567341314,0.0,1.0,0,0
+480,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,1,0.176441962421826,0.0,1.0,0,0
+481,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,1,0.150047052708832,0.0,1.0,0,0
+482,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,2,0.202905902342047,0.000362124047949368,0.5,1,0
+483,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,7,0.20399474539191,0.00140855380101213,1.0,0,0
+484,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,3,0.169480253249142,1.39885573600795e-06,1.0,0,0
+485,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,3,0.177347426189795,0.0,1.0,0,0
+486,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,2,0.217287343834138,0.0,0.5,1,0
+487,Københavns Universitet,IFRO,4,49,3,0.223482779563683,0.0,1.0,0,0
+488,Københavns Universitet,IFRO,10,28,2,0.171197571735116,0.0,1.0,0,0
+489,Københavns Universitet,IFRO,1,61,2,0.173186427352084,0.0,1.0,0,0
+490,Københavns Universitet,IFRO,4,49,2,0.221787752647506,0.0,1.0,0,0
+491,Københavns Universitet,Økonomisk Institut ,10,28,1,0.12703231680462,0.0,1.0,0,0
+492,Københavns Universitet,Økonomisk Institut ,0,88,2,0.201400904920702,0.0,1.0,0,0
+493,Københavns Universitet,Økonomisk Institut ,41,2,1,0.00118203309692671,0.0,1.0,0,12
+494,SDU,SDU Climate Cluster,17,16,1,0.115457618234723,0.0,1.0,0,0
+495,RUC,Institut for Naturvidenskab og Miljø,5,43,9,0.220949844834539,0.00273710231931857,0.888888888888889,1,0
+496,RUC,Institut for Naturvidenskab og Miljø,23,14,1,0.151060682709249,0.0,1.0,0,0
+497,RUC,Institut for Naturvidenskab og Miljø,14,23,6,0.231231270096001,0.00316075808337191,0.333333333333333,3,0
+498,RUC,Institut for Naturvidenskab og Miljø,24,13,9,0.196660221437054,0.00402793988643628,0.777777777777778,1,0
+499,RUC,Institut for Naturvidenskab og Miljø,24,13,4,0.182805582129274,0.0,1.0,0,0
+500,RUC,Institut for Naturvidenskab og Miljø,5,43,9,0.217847683689298,0.000361501236265912,1.0,0,0
+501,RUC,Institut for Naturvidenskab og Miljø,18,16,2,0.150195261966742,0.00224096688908473,1.0,0,0
+502,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,3,0.18166987241951,1.86680628579156e-06,1.0,0,0
+503,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,6,0.205427834659727,0.0,1.0,0,0
+504,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,12,0.214407336738762,0.000538234380438862,0.833333333333333,2,0
+505,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,6,36,4,0.197682895495489,0.00104255808413123,0.5,2,0
+506,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,4,0.194298087420304,0.0,1.0,0,0
+507,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,4,0.195346458395594,0.000383372166546206,0.5,2,0
+508,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,6,0.205427834659727,0.0,1.0,0,0
+509,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,15,0.225270641800193,0.00237484093829812,0.733333333333333,3,0
+510,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,12,0.222176626556297,0.000734143587480326,0.833333333333333,2,0
+511,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,6,36,2,0.176114990983472,0.0,1.0,0,0
+512,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,6,0.210664565274494,0.00013034950890806,0.833333333333333,1,0
+513,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,30,4,2,0.00265957446808511,0.0,1.0,0,2
+514,RUC,Institut for Naturvidenskab og Miljø,5,43,12,0.21544018590979,0.00054360114668936,1.0,0,0
+515,Aalborg Universitet,Aalborg University Business School ,39,2,1,0.00118203309692671,0.0,1.0,0,6
+516,Aalborg Universitet,Aalborg University Business School ,8,35,11,0.23487439483338,0.00537210199512478,0.909090909090909,1,0
+517,Aalborg Universitet,Aalborg University Business School ,8,35,6,0.200392307874446,0.000225482801427727,1.0,0,0
+518,Aalborg Universitet,Aalborg University Business School ,25,7,5,0.172753559662724,0.00434050170251881,0.8,1,0
+519,Aalborg Universitet,Aalborg University Business School ,4,49,3,0.177430202118005,0.00587555299712806,0.666666666666667,1,0
+520,Aalborg Universitet,Aalborg University Business School ,36,3,2,0.00236406619385343,0.0,1.0,0,15
+521,Aalborg Universitet,Aalborg University Business School ,12,25,10,0.197221379007951,0.0107915932263785,0.8,2,0
+522,Aalborg Universitet,Aalborg University Business School ,8,35,7,0.21741161454837,0.00908792659536652,0.571428571428571,2,0
+523,Aalborg Universitet,Aalborg University Business School ,1,61,1,0.174698625017383,0.0,1.0,0,0
+524,Aalborg Universitet,Aalborg University Business School ,1,61,8,0.229833257580305,0.0164355691686252,0.625,3,0
+525,Aalborg Universitet,Aalborg University Business School ,1,61,2,0.201400904920702,0.00051308625481645,0.5,1,0
+526,Aalborg Universitet,Aalborg University Business School ,8,35,19,0.246766769255323,0.0364403587180316,0.68421052631579,4,0
+527,Aalborg Universitet,Aalborg University Business School ,12,25,4,0.179652272229596,0.00231161061872467,0.75,1,0
+528,Aalborg Universitet,Aalborg University Business School ,12,25,13,0.188423399275254,0.00807656921137872,0.846153846153846,2,0
+529,Aalborg Universitet,Aalborg University Business School ,12,25,10,0.181800195140041,0.00162520347443133,0.9,1,0
+530,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,17,0.207332537789924,0.0101437583920823,0.882352941176471,2,0
+531,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,6,0.207729075430505,0.00323049905768641,0.833333333333333,1,0
+532,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,8,0.236923781887083,0.00259302874275814,0.375,3,0
+533,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,22,0.268558253647351,0.00838430940719933,0.727272727272727,6,0
+534,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,3,0.206600113064035,0.0,1.0,0,0
+535,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,30,4,3,0.00354609929078014,1.39885573600795e-06,1.0,0,2
+536,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,4,0.177388804497352,0.0,1.0,0,0
+537,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,15,0.239762982048455,0.00921516720585662,0.8,2,0
+538,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,12,0.256421050953002,0.0254285425295602,0.416666666666667,6,0
+539,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,21,0.267424697880988,0.0193374533348692,0.714285714285714,6,0
+540,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,16,0.237664400148687,0.0128322988178988,0.625,2,0
+541,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,15,0.255645062567468,0.0209686635149469,0.4,6,0
+542,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,18,0.245175238979571,0.0206827688034374,0.611111111111111,5,0
+543,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,21,0.267424697880988,0.007445914617832,0.761904761904762,5,0
+544,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,17,0.217722914111011,0.0111187260081767,0.882352941176471,1,0
+545,Aalborg Universitet,Institut for Politik og Samfund,7,36,8,0.232078271085363,0.00665114429111134,0.75,2,0
+546,Aalborg Universitet,Institut for Politik og Samfund,7,36,7,0.179822236536341,0.00131725695635693,1.0,0,0
+547,Aalborg Universitet,Institut for Politik og Samfund,7,36,8,0.209619083560973,0.0052796043968002,0.625,2,0
+548,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,11,0.22374585523121,0.0157264844699503,0.818181818181818,2,0
+549,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,7,0.179482628913043,0.000799650892053299,0.714285714285714,1,0
+550,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,9,0.193704055051121,0.00269980906555013,1.0,0,0
+551,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,6,0.209908452809401,0.00895531750791476,0.833333333333333,1,0
+552,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,7,0.190691852539666,0.00627443432548472,0.857142857142857,1,0
+553,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,10,0.196609365419097,0.00324114049080792,0.9,1,0
+554,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,10,0.19691489667849,0.00893742933774077,0.8,1,0
+555,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,11,0.21025675223331,0.0100838841750064,0.727272727272727,2,0
+556,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,9,35,8,0.199550765374186,0.00216841215867025,0.875,1,0
+557,Aalborg Universitet,Institut for Sociologi og Socialt Arbejde,7,36,3,0.218160234168049,0.0011500264529634,0.333333333333333,1,0
+558,Aarhus Universitet,Department of Economics and Business Economics,0,88,8,0.234367575855626,0.00997515644664228,0.625,2,0
+559,Aarhus Universitet,Department of Economics and Business Economics,0,88,13,0.225404214668144,0.000638911543095215,1.0,0,0
+560,Aarhus Universitet,Department of Economics and Business Economics,0,88,12,0.226884039413802,0.0190514088329369,0.833333333333333,2,0
+561,Aarhus Universitet,Department of Economics and Business Economics,0,88,6,0.214710086437631,0.00646172111955359,0.666666666666667,2,0
+562,Aarhus Universitet,Department of Economics and Business Economics,44,2,1,0.00118203309692671,0.0,1.0,0,14
+563,Aarhus Universitet,Department of Economics and Business Economics,32,4,1,0.116198749209178,0.0,1.0,0,0
+564,Aarhus Universitet,Department of Economics and Business Economics,0,88,24,0.241745124348378,0.0300340459299983,0.958333333333333,1,0
+565,Aarhus Universitet,Department of Economics and Business Economics,0,88,8,0.234367575855626,0.00997515644664228,0.625,2,0
+566,Aarhus Universitet,Department of Economics and Business Economics,32,4,2,0.15381113009825,0.00447633835522543,1.0,0,0
+567,Aarhus Universitet,Department of Economics and Business Economics,45,2,1,0.00118203309692671,0.0,1.0,0,8
+568,Aarhus Universitet,Department of Economics and Business Economics,0,88,9,0.207956350130101,0.00386861348250216,0.888888888888889,1,0
+569,Aarhus Universitet,Department of Economics and Business Economics,0,88,16,0.252252294650182,0.0174037160988136,0.9375,1,0
+570,Aarhus Universitet,Department of Economics and Business Economics,0,88,19,0.260016558165407,0.0327982227773077,0.789473684210526,2,0
+571,Aarhus Universitet,Department of Economics and Business Economics,0,88,22,0.239159614997059,0.0127834828986381,1.0,0,0
+572,Aarhus Universitet,Department of Economics and Business Economics,0,88,7,0.1940006165031,0.000389390501586383,1.0,0,0
+573,Aarhus Universitet,Department of Economics and Business Economics,1,61,2,0.20372144053474,0.0,0.5,1,0
+574,Aarhus Universitet,Department of Economics and Business Economics,0,88,3,0.186711300607969,0.000202998970597106,1.0,0,0
+575,Aarhus Universitet,Department of Economics and Business Economics,0,88,8,0.246127684064633,0.00240284351111801,1.0,0,0
+576,Aarhus Universitet,Department of Economics and Business Economics,0,88,3,0.169442481853276,0.00247353218837062,1.0,0,0
+577,Aarhus Universitet,Department of Economics and Business Economics,16,20,2,0.136816342644529,0.0,1.0,0,0
+578,Aarhus Universitet,Department of Economics and Business Economics,0,88,17,0.24829798042967,0.0141264419776536,0.941176470588235,1,0
+579,Aarhus Universitet,Department of Economics and Business Economics,40,2,1,0.00118203309692671,0.0,1.0,0,7
+580,Aarhus Universitet,Department of Economics and Business Economics,0,88,12,0.223811720952502,0.000471820595228128,1.0,0,0
+581,Aarhus Universitet,Department of Economics and Business Economics,0,88,14,0.224207731075096,0.01218343513853,1.0,0,0
+582,Aarhus Universitet,Department of Economics and Business Economics,0,88,11,0.223680028265858,0.0,1.0,0,0
+583,Aarhus Universitet,Institut for Miljøvidenskab,28,5,16,0.273583453067884,0.0278400717519793,0.25,6,0
+584,Aarhus Universitet,Institut for Miljøvidenskab,6,36,6,0.220629255970879,0.00358798899281538,0.5,2,0
+585,Aarhus Universitet,Institut for Miljøvidenskab,4,49,2,0.221787752647506,0.0,1.0,0,0
+586,Aarhus Universitet,Institut for Miljøvidenskab,28,5,7,0.238859068826783,0.00183395313987068,0.428571428571429,3,0
+587,CBS, Institut for International Economics &Business,34,3,1,0.00157604412923562,0.0,1.0,0,16
+588,CBS, Institut for International Economics &Business,34,3,2,0.00236406619385343,2.79771147201589e-06,1.0,0,16
+589,CBS, Institut for International Economics &Business,16,20,2,0.119768181486397,0.00224096688908473,1.0,0,0
+590,CBS, Institut for International Economics &Business,34,3,1,0.00157604412923562,0.0,1.0,0,16
+591,CBS, Institut for International Economics &Business,16,20,2,0.159791596485004,0.0,1.0,0,0
+592,CBS, Institut for International Economics &Business,7,36,3,0.21741161454837,0.00166525820269887,0.333333333333333,2,0
+593,CBS,Center for Sustainiability,1,61,5,0.208583927592771,0.00130248114097058,1.0,0,0
+594,CBS,Center for Sustainiability,1,61,3,0.204049494384232,0.000596202305647516,1.0,0,0
+595,CBS,Center for Sustainiability,1,61,5,0.223023882685729,0.00279247261123929,0.8,1,0
+596,CBS,Center for Sustainiability,1,61,6,0.208641167968071,0.00249865770475528,1.0,0,0
+597,CBS,Center for Sustainiability,1,61,4,0.210664565274494,0.00259419196769828,1.0,0,0
+598,CBS,Center for Sustainiability,1,61,3,0.211661585767163,0.00188966051995312,0.666666666666667,1,0
+599,CBS,Center for Sustainiability,1,61,3,0.197682895495489,0.000573526092544848,0.666666666666667,1,0
+600,CBS,Center for Sustainiability,1,61,16,0.257463059964663,0.0330792625394145,0.6875,4,0
+601,CBS,Department of operations and management,1,61,11,0.214105439615784,0.0134607504850964,0.727272727272727,2,0
+602,CBS,Department of operations and management,13,24,8,0.21002442433029,0.0039549772982936,0.25,1,0
+603,CBS,Department of organization,1,61,4,0.198872198816545,0.000994505823368276,0.75,1,0
+604,CBS,Department of organization,1,61,4,0.168354387970693,0.00448053492243345,1.0,0,0
+605,CBS,Department of organization,1,61,2,0.200656747446727,0.000473059984510418,0.5,1,0
+606,CBS,Department of organization,19,15,10,0.218035106416877,0.00980242280445455,0.9,1,0
+607,CBS,Department of organization,1,61,8,0.216298269153812,0.00672155839838591,1.0,0,0
+608,CBS,Department of organization,1,61,2,0.17538371766451,0.000341878738583928,0.5,1,0
+609,CBS,Department of organization,1,61,5,0.170201122918211,0.00184056413042637,1.0,0,0
+610,CBS,Department of organization,6,36,3,0.174618377601206,0.00140347996933096,0.666666666666667,1,0
+611,CBS,Department of organization,1,61,5,0.188050560493606,0.00347588526478602,0.8,1,0
+612,CBS,Department of organization,12,25,3,0.194945747711705,0.000753200482470034,0.333333333333333,2,0
+613,CBS,Department of organization,1,61,1,0.142991990986581,0.0,1.0,0,0
+614,CBS,Department of organization,1,61,5,0.194447165236739,0.00122750998127249,1.0,0,0
+615,CBS,Økonomisk institut ,22,15,2,0.187170954228373,0.00224096688908473,1.0,0,0
+616,CBS,Økonomisk institut ,22,15,9,0.221271366727488,0.0130627150361506,0.444444444444444,3,0
+617,CBS,Økonomisk institut ,10,28,2,0.160567775306368,0.00161026766261471,1.0,0,0
+618,CBS,Økonomisk institut ,22,15,7,0.233002885711201,0.00967099785166233,0.571428571428571,3,0
+619,CBS,Økonomisk institut ,27,5,5,0.209100224443248,0.00893868815309077,0.8,1,0
+620,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,9,0.228933579065236,0.00419598052496389,0.666666666666667,2,0
+621,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,13,0.248460266691389,0.0101939177418172,0.384615384615385,4,0
+622,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,10,0.209734735469145,0.00611178867111897,0.8,1,0
+623,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,22,0.263075576496765,0.0189932715845945,0.590909090909091,3,0
+624,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,7,0.216298269153812,0.000429712009375589,0.714285714285714,1,0
+625,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,14,0.229763800566833,0.00413063096813376,0.357142857142857,2,0
+626,Københavns Universitet,IFRO,14,23,15,0.282320243622596,0.031982874902093,0.2,7,0
+627,Københavns Universitet,IFRO,4,49,8,0.240445419378763,0.0080802526663874,0.75,2,0
+628,Københavns Universitet,IFRO,14,23,3,0.213864533354613,0.000679097183013691,0.666666666666667,1,0
+629,Københavns Universitet,IFRO,14,23,14,0.230740035227815,0.00626839736000103,0.714285714285714,3,0
+630,Københavns Universitet,IFRO,14,23,18,0.259572692412308,0.0162836379283766,0.5,4,0
+631,Københavns Universitet,IFRO,22,15,8,0.229694385521344,0.00661404210811283,0.875,1,0
+632,Københavns Universitet,IFRO,0,88,9,0.260998426390542,0.0083739221372582,0.555555555555556,3,0
+633,Københavns Universitet,IFRO,4,49,5,0.210489594705329,0.000598111109947317,0.8,1,0
+634,Københavns Universitet,IFRO,22,15,9,0.229347938484359,0.00791794653559824,0.555555555555556,2,0
+635,Københavns Universitet,IFRO,4,49,25,0.271144228272343,0.027939605373016,0.76,2,0
+636,Københavns Universitet,IFRO,4,49,19,0.250754754642365,0.0100271715921398,0.526315789473684,5,0
+637,Københavns Universitet,IFRO,4,49,17,0.250094873709095,0.00681638777069518,0.705882352941176,1,0
+638,Københavns Universitet,IFRO,8,35,2,0.196558535696911,0.00175938099215199,0.5,1,0
+639,Københavns Universitet,IFRO,10,28,4,0.208813077746677,0.00724552779534011,0.75,1,0
+640,Københavns Universitet,Økonomisk Institut ,24,13,5,0.193506850617371,0.00316208246167529,0.4,2,0
+641,Københavns Universitet,Økonomisk Institut ,0,88,1,0.174418081228642,0.0,1.0,0,0
+642,Københavns Universitet,Økonomisk Institut ,10,28,5,0.195799231541501,0.0043657520818919,0.6,1,0
+643,Københavns Universitet,Økonomisk Institut ,0,88,2,0.182454623488277,0.00128896661774046,1.0,0,0
+644,Københavns Universitet,Økonomisk Institut ,0,88,13,0.254107090934375,0.0202414343420275,0.846153846153846,2,0
+645,Københavns Universitet,Økonomisk Institut ,10,28,11,0.191701567341314,0.00920967113269134,0.818181818181818,2,0
+646,Københavns Universitet,Økonomisk Institut ,10,28,5,0.174538203874116,0.000196142944651663,1.0,0,0
+647,Københavns Universitet,Økonomisk Institut ,0,88,4,0.225872969719444,0.00055052012097182,0.75,1,0
+648,Københavns Universitet,Økonomisk Institut ,0,88,21,0.274076573927776,0.0663889468353645,0.523809523809524,5,0
+649,Københavns Universitet,Økonomisk Institut ,0,88,9,0.224141632097774,0.00341131821730372,0.888888888888889,1,0
+650,Københavns Universitet,Økonomisk Institut ,0,88,6,0.213624168607938,0.00694607377471438,0.666666666666667,2,0
+651,Københavns Universitet,Økonomisk Institut ,0,88,7,0.222762501047656,0.0166315034773883,0.714285714285714,2,0
+652,Københavns Universitet,Økonomisk Institut ,0,88,2,0.20049800001995,0.0,1.0,0,0
+653,Københavns Universitet,Økonomisk Institut ,0,88,9,0.205594487851717,0.00422600679207176,1.0,0,0
+654,Københavns Universitet,Økonomisk Institut ,10,28,2,0.163538054651678,0.0,1.0,0,0
+655,Københavns Universitet,,4,49,7,0.245254327766339,0.00429664262339437,0.571428571428571,2,0
+656,SDU,Center for Bæredygtig Erhvervsfremme,8,35,2,0.167243382330763,0.0,1.0,0,0
+657,SDU,Center for Bæredygtig Erhvervsfremme,8,35,1,0.167206601292204,0.0,1.0,0,0
+658,SDU,SDU Climate Cluster,15,20,21,0.27566657580698,0.0171392754214668,0.571428571428571,6,0
+659,SDU,SDU Climate Cluster,17,16,10,0.215745861542466,0.0276631575309962,0.6,2,0
+660,SDU,SDU Climate Cluster,2,52,3,0.203830674551113,0.00185475879001383,0.666666666666667,1,0
+661,SDU,SDU Climate Cluster,23,14,4,0.211249907217463,0.00458282784643265,0.5,2,0
+662,SDU,SDU Climate Cluster,8,35,8,0.212846701029017,0.00571816486453997,0.875,1,0
+663,SDU,SDU Climate Cluster,17,16,4,0.176729059989691,0.000818361889563405,1.0,0,0
+664,SDU,SDU Climate Cluster,17,16,3,0.152515228901836,0.00447633835522543,1.0,0,0
+665,SDU,SDU Climate Cluster,46,2,1,0.00118203309692671,0.0,1.0,0,17
+666,SDU,SDU Climate Cluster,8,35,3,0.195547432118223,0.0,0.666666666666667,1,0
+667,SDU ,Økonomisk Institut ,0,88,7,0.212549179780724,0.00739395713138614,0.571428571428571,2,0
+668,SDU ,Økonomisk Institut ,0,88,1,0.173661127472739,0.0,1.0,0,0
+669,SDU ,Økonomisk Institut ,10,28,6,0.192917639197069,0.00461695178861805,0.666666666666667,1,0
+670,SDU ,Økonomisk Institut ,10,28,5,0.166474363055759,0.000812015681169632,1.0,0,0
+671,RUC,Institut for Naturvidenskab og Miljø,18,16,14,0.178345863494171,0.00730735539469169,0.928571428571429,1,0
+672,RUC,Institut for Naturvidenskab og Miljø,23,14,5,0.179652272229596,0.00241302658222925,1.0,0,0
+673,RUC,Institut for Naturvidenskab og Miljø,18,16,7,0.192186151687475,0.007380005364218,0.857142857142857,1,0
+674,RUC,Institut for Naturvidenskab og Miljø,24,13,5,0.179822236536341,0.00224289004527777,0.8,1,0
+675,RUC,Institut for Naturvidenskab og Miljø,5,43,6,0.214346889223471,0.00256829639518507,0.833333333333333,1,0
+676,RUC,Institut for Naturvidenskab og Miljø,18,16,10,0.175829883458754,0.000523936339655919,1.0,0,0
+677,RUC,Institut for Naturvidenskab og Miljø,5,43,10,0.218725090930854,0.000416020914004496,1.0,0,0
+678,RUC,Institut for Naturvidenskab og Miljø,24,13,10,0.22361424002225,0.0129375537161211,0.7,3,0
+679,RUC,,9,35,3,0.166510822618408,0.00296766562590366,1.0,0,0
+680,CBS,Department of Finance,10,28,5,0.156825168332436,0.0048522727256702,1.0,0,0
+681,CBS,Department of Finance,22,15,2,0.197016951561454,0.000670268350981083,0.5,1,0
+682,CBS,Department of Finance,16,20,5,0.169404727289583,0.00309667024181812,1.0,0,0
+683,CBS,Department of Finance,16,20,3,0.163082028330255,0.0,1.0,0,0
+684,CBS,Department of Finance,16,20,5,0.188190201998923,0.0109812807309816,1.0,0,0
+685,CBS,Department of Finance,16,20,4,0.159791596485004,0.00670611439842209,1.0,0,0
+686,CBS,Department of Finance,16,20,1,0.11959861822804,0.0,1.0,0,0
+687,CBS,Department of Finance,16,20,4,0.228040916639367,0.016952156087256,0.25,3,0
+688,CBS,Department of Finance,10,28,3,0.181974249898432,0.00756368557139119,0.666666666666667,1,0
+689,CBS,Department of Finance,16,20,4,0.173939239550595,0.00203833156498044,0.75,1,0
+690,CBS,Department of Finance,16,20,3,0.136840967616208,0.00224096688908473,1.0,0,0
+691,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,11,0.216606386346339,0.00634542252738621,0.909090909090909,1,0
+692,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,18,0.232078271085363,0.0101232246209061,0.611111111111111,3,0
+693,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,9,35,6,0.231795248803552,0.00765061355171024,0.666666666666667,2,0
+694,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,26,0.246526723759938,0.0273787984082518,0.576923076923077,2,0
+695,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,18,0.252839513161174,0.02878848928511,0.388888888888889,6,0
+696,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,5,43,2,0.182410848386672,0.0,1.0,0,0
+697,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,15,0.228726960311567,0.00452766852916076,0.533333333333333,2,0
+698,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,15,0.249684208891839,0.00719413429002291,0.733333333333333,3,0
+699,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,5,43,14,0.225738840877568,0.00650593922768195,0.5,2,0
+700,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,16,0.254617687902093,0.0117890620999437,0.5,4,0
+701,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,19,0.241284803578435,0.00273949076720342,0.736842105263158,2,0
+702,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,19,0.242130068813901,0.00350681047052031,0.947368421052632,1,0
+703,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,5,0.196762012441938,0.00250545968781937,0.8,1,0
+704,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,7,0.211956625613507,0.00061594324894712,1.0,0,0
+705,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,11,0.230670029149166,0.00114920216491568,0.909090909090909,1,0
+706,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,12,0.222762501047656,0.000734425115093164,0.666666666666667,2,0
+707,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,19,0.252168628880813,0.00941382919679748,0.789473684210526,2,0
+708,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,8,0.2212069875111,0.00149424789544416,0.625,1,0
+709,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,7,0.204819077606587,0.00037742321230323,0.714285714285714,1,0
+710,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,6,0.196254108434603,0.00410896167483866,0.333333333333333,2,0
+711,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,14,0.232504102775428,0.00351548788513916,0.785714285714286,3,0
+712,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,5,43,13,0.240902539947925,0.0056265554010261,0.384615384615385,3,0
+713,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,15,0.223023882685729,0.00109874360990021,0.866666666666667,2,0
+714,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,19,0.249274890516607,0.00595791699887009,0.68421052631579,1,0
+715,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,30,0.241822015291237,0.0154183221837614,0.6,4,0
+716,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,26,6,6,0.190453010038991,0.00665524490569943,0.666666666666667,2,0
+717,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,12,0.227155188549641,0.0132728992544663,0.75,3,0
+718,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,26,6,5,0.174258174667809,0.00302472008422368,0.8,1,0
+719,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,1,0.197682895495489,0.0,1.0,0,0
+720,RUC,Institut for Naturvidenskab og Miljø,18,16,9,0.173028770158318,0.00210355777683532,0.777777777777778,1,0
+721,CBS,Department of operations and management,1,61,6,0.23487439483338,0.00897576262776705,0.333333333333333,3,0
+722,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,9,35,3,0.211426144626154,0.000460743048284676,0.666666666666667,1,0
+723,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,15,20,14,0.24684688833625,0.0103018593508591,0.5,4,0
+724,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,5,0.198716261389349,0.000751423580708446,1.0,0,0
+725,Aalborg Universitet,Institut for Politik og Samfund,7,36,8,0.221917225941521,0.00610507146633539,0.75,2,0
+726,Aalborg Universitet,Institut for Politik og Samfund,7,36,14,0.263166637617047,0.0383112557196396,0.428571428571429,7,0
+727,Aarhus Universitet,Department of Economics and Business Economics,8,35,1,0.161694686532465,0.0,1.0,0,0
+728,Aarhus Universitet,Department of Economics and Business Economics,0,88,19,0.233503813291047,0.00974909605263683,0.894736842105263,2,0
+729,Aarhus Universitet,Department of Economics and Business Economics,0,88,7,0.198560568314351,0.00377998043763121,1.0,0,0
+730,Aarhus Universitet,Department of Economics and Business Economics,0,88,3,0.183113780365041,0.0,1.0,0,0
+731,Aarhus Universitet,Department of Economics and Business Economics,0,88,14,0.223877625463972,0.00133512547090663,1.0,0,0
+732,CBS, Institut for International Economics &Business,16,20,7,0.176729059989691,0.00812818487534998,0.857142857142857,1,0
+733,CBS,Department of operations and management,1,61,2,0.179609831343173,0.0,0.5,1,0
+734,CBS,Department of operations and management,1,61,4,0.188236795265078,0.000158441594963554,0.75,1,0
+735,CBS,Department of organization,1,61,1,0.145454068505003,0.0,1.0,0,0
+736,CBS,Department of organization,15,20,4,0.217847683689298,0.00113461362398356,0.25,3,0
+737,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,6,0.218851012111586,0.00148698734759216,0.666666666666667,1,0
+738,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,2,52,13,0.249602237713608,0.00818377633050228,0.615384615384615,5,0
+739,Københavns Universitet,IFRO,0,88,5,0.240445419378763,5.59122001972951e-05,1.0,0,0
+740,SDU ,Økonomisk Institut ,2,52,4,0.243292293144208,0.00411464374088789,0.5,2,0
+741,RUC,Institut for Naturvidenskab og Miljø,5,43,17,0.250506891622949,0.0268003190563529,0.647058823529412,4,0
+742,RUC,Institut for Naturvidenskab og Miljø,18,16,5,0.169028104952345,0.0,1.0,0,0
+743,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,4,0.198043348808453,0.00191725810209167,1.0,0,0
+744,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,4,0.191604943567452,0.00012073446880477,1.0,0,0
+745,CBS, Institut for International Economics &Business,9,35,3,0.155097596098664,0.00670611439842209,1.0,0,0
+746,CBS, Institut for International Economics &Business,19,15,2,0.215501251722123,0.00969422746785593,0.5,1,0
+747,CBS, Institut for International Economics &Business,8,35,1,0.173859688103282,0.0,1.0,0,0
+748,CBS, Institut for International Economics &Business,10,28,3,0.178429574296092,0.00182762784499642,0.333333333333333,2,0
+749,SDU,SDU Climate Cluster,13,24,5,0.227291006300643,0.00457357236495914,0.4,2,0
+750,DTU,Centre for Absolute Sustainability,13,24,35,0.279620601719621,0.0484726080595291,0.485714285714286,8,0
+751,CBS,Center for Sustainiability,9,35,2,0.117003449688466,0.00224096688908473,1.0,0,0
+752,CBS,Center for Sustainiability,1,61,1,0.1870788425383,0.0,1.0,0,0
+753,CBS,Department of organization,19,15,5,0.220565249804366,0.00289701191795389,0.8,1,0
+754,CBS,Department of organization,19,15,3,0.187494060684501,0.000153049123757529,1.0,0,0
+755,CBS,Økonomisk institut ,0,88,2,0.191171339219424,0.0,1.0,0,0
+756,CBS,Økonomisk institut ,35,3,1,0.00157604412923562,0.0,1.0,0,10
+757,Aalborg Universitet,Aalborg University Business School ,8,35,13,0.218410921021445,0.0104819425836042,0.692307692307692,3,0
+758,SDU,SDU Climate Cluster,46,2,1,0.00118203309692671,0.0,1.0,0,17
+759,SDU,SDU Climate Cluster,17,16,1,0.148522839631891,0.0,1.0,0,0
+760,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,5,0.204984744156282,0.000198753760763254,0.8,1,0
+761,DTU,Centre for Absolute Sustainability,5,43,29,0.277883193010106,0.0613566520290889,0.172413793103448,10,0
+762,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,21,15,5,0.218725090930854,0.00310999191976465,0.8,1,0
+763,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,13,24,14,0.243058956545924,0.0051153699400252,0.5,5,0
+764,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,19,0.23662882542037,0.0112616072170978,0.578947368421053,3,0
+765,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,11,0.226276314308229,0.00655293343534661,0.636363636363636,2,0
+766,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,15,0.241822015291237,0.00686673456267666,0.666666666666667,2,0
+767,CBS,Center for Sustainiability,1,61,2,0.178095201704299,0.0,1.0,0,0
+768,DREAM - Danish Research Instutiute for Economic Analysis and Modelling,,0,88,30,0.302061349255324,0.108703373793035,0.366666666666667,10,0
+769,SDU,SDU Climate Cluster,2,52,8,0.22211171956636,0.00312000789722158,0.75,1,0
+770,Københavns Universitet,IFRO,4,49,34,0.268843145712748,0.031132837218807,0.735294117647059,6,0
+771,Københavns Universitet,IFRO,14,23,8,0.23193667360453,0.00283495702440065,0.5,2,0
+772,Københavns Universitet,IFRO,4,49,23,0.278493925302436,0.0304645142790718,0.434782608695652,7,0
+773,Københavns Universitet,,22,15,5,0.20682492276269,0.00297932857069056,0.6,2,0
+774,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,33,3,2,0.00236406619385343,0.0,1.0,0,9
+775,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,1,0.201400904920702,0.0,1.0,0,0
+776,Aalborg Universitet,Aalborg University Business School ,7,36,7,0.212608617470819,0.0022847790866129,0.857142857142857,1,0
+777,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,3,0.191315655781492,0.0,1.0,0,0
+778,DTU,Centre for Absolute Sustainability,21,15,4,0.221852470404333,0.00069244593058345,0.75,1,0
+779,DTU,Centre for Absolute Sustainability,13,24,12,0.250424379471558,0.00242583123501081,0.916666666666667,1,0
+780,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,5,43,10,0.238859068826783,0.00223052265411551,0.4,3,0
+781,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,33,3,2,0.00236406619385343,0.0,1.0,0,9
+782,DTU,Department of Environmental and Ressource Engineering /DTU Sustain,6,36,4,0.201028137513392,0.000114234033412237,1.0,0,0
+783,DTU,Centre for Absolute Sustainability,13,24,4,0.225671836175616,8.76234210297898e-05,0.75,1,0
+784,Københavns Universitet,IFRO,5,43,4,0.228933579065236,8.20043063647853e-05,0.5,1,0
+785,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,14,0.247328697487199,0.00483715398596779,0.642857142857143,3,0
+786,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,13,0.205650099019651,0.00203425548114145,0.615384615384615,1,0
+787,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,24,0.247893190764803,0.00862753894184032,0.458333333333333,3,0
+788,Københavns Universitet,IFRO,4,49,5,0.226276314308229,0.00181487567063488,0.6,2,0
+789,Københavns Universitet,IFRO,4,49,6,0.22374585523121,0.00445710341013502,1.0,0,0
+790,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,9,0.235310558983488,0.00126055928354492,0.888888888888889,1,0
+791,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,9,0.211073963374695,0.00307000195165562,0.777777777777778,1,0
+792,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,4,0.193753418979524,0.0,1.0,0,0
+793,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,3,51,3,0.206768674483451,0.000688028882286475,1.0,0,0
+794,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,14,23,4,0.190835445802121,0.0,1.0,0,0
+795,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,13,0.225604871239065,0.00109484599101123,0.923076923076923,1,0
+796,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,17,0.230111506076165,0.00204198526746627,0.941176470588235,1,0
+797,Københavns Universitet,IFRO,4,49,3,0.196456955058307,3.89621433746632e-05,1.0,0,0
+798,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,3,0.186390884058752,7.17747761236034e-05,1.0,0,0
+799,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,4,49,5,0.205150678919495,3.25950342641391e-05,1.0,0,0
+800,RUC,Institut for Naturvidenskab og Miljø,18,16,7,0.177471619065278,0.000375118161233561,0.857142857142857,1,0
+801,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,3,51,5,0.217722914111011,0.000802011073850551,0.8,1,0
+802,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,9,35,4,0.219040165968208,8.02723976186252e-05,0.75,1,0
+803,Københavns Universitet,IFRO,4,49,1,0.181064161961336,0.0,1.0,0,0
+804,Københavns Universitet,IFRO,5,43,1,0.165676272842809,0.0,1.0,0,0
+805,Københavns Universitet,Økonomisk Institut ,0,88,2,0.177595986002254,0.00074556390462342,0.5,1,0
+806,Københavns Universitet,Økonomisk Institut ,10,28,7,0.185255462006737,0.0049139571983945,0.857142857142857,1,0
+807,Københavns Universitet,Økonomisk Institut ,43,2,1,0.00118203309692671,0.0,1.0,0,13
+808,Københavns Universitet,Økonomisk Institut ,47,2,1,0.00118203309692671,0.0,1.0,0,11
+809,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,12,0.211543799687159,0.00717946248607494,0.75,3,0
+810,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,14,0.214286475782314,0.000781897105322843,0.857142857142857,2,0
+811,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,10,0.204323680751317,0.00218391940467522,0.8,2,0
+812,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,26,6,2,0.147257101699719,0.0,1.0,0,0
+813,Københavns Universitet,IFRO,2,52,4,0.198664336575817,0.00293812736494035,1.0,0,0
+814,Københavns Universitet,IFRO,2,52,1,0.164280124476156,0.0,1.0,0,0
+815,Københavns Universitet,IFRO,48,2,1,0.00118203309692671,0.0,1.0,0,18
+816,Københavns Universitet,IFRO,48,2,1,0.00118203309692671,0.0,1.0,0,18
+817,Aalborg Universitet,Aalborg University Business School ,12,25,2,0.15563734208304,0.0,1.0,0,0
+818,DREAM - Danish Research Instutiute for Economic Analysis and Modelling,,10,28,2,0.163996638497768,7.87580256079933e-05,1.0,0,0
+819,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,9,35,1,0.186299538366981,0.0,1.0,0,0
+820,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,20,15,2,0.191798288616461,0.0,1.0,0,0
+821,Aalborg Universitet,Institut for Bæredygtighed og Planlægning,37,2,1,0.00118203309692671,0.0,1.0,0,1
+822,CBS, Institut for International Economics &Business,10,28,1,0.159489913168796,0.0,1.0,0,0
+823,Københavns Universitet,IFRO,10,28,2,0.171197571735116,0.0,1.0,0,0
+824,RUC,Institut for Naturvidenskab og Miljø,24,13,1,0.180977961455761,0.0,1.0,0,0
+825,RUC,Institut for Naturvidenskab og Miljø,18,16,2,0.152791080401055,0.0,1.0,0,0
+826,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,2,52,1,0.181064161961336,0.0,1.0,0,0
+827,Københavns Universitet,Institut for Geovidenskab og Naturforvaltning,11,27,7,0.216113819236967,9.83179163104366e-05,0.714285714285714,1,0
+828,CBS,Center for Sustainiability,1,61,2,0.195849669262146,6.59118438382848e-05,0.5,1,0
+829,CBS,Center for Sustainiability,1,61,9,0.217287343834138,0.00618993492869295,0.888888888888889,1,0
+830,CBS,Center for Sustainiability,1,61,2,0.175870556575445,2.65382136144749e-05,1.0,0,0
+831,CBS,Center for Sustainiability,1,61,3,0.204213917828539,0.00641013776760931,1.0,0,0
+832,Aalborg Universitet,Aalborg University Business School ,36,3,2,0.00236406619385343,0.0,1.0,0,15
+833,Aalborg Universitet,Aalborg University Business School ,12,25,4,0.186665459385134,0.000788834342077327,0.5,2,0
+834,Aalborg Universitet,Aalborg University Business School ,36,3,2,0.00236406619385343,0.0,1.0,0,15
+835,Aalborg Universitet,,9,35,12,0.239460918449024,0.00587528576443603,0.5,4,0
+836,Organisation w. few network members,,9,35,11,0.25694099901171,0.00364187163442583,0.363636363636364,3,0
+837,Organisation w. few network members,,0,88,2,0.194596471992744,0.0,1.0,0,0
+838,Organisation w. few network members,,0,88,4,0.197374978212786,0.00206742933496623,0.75,1,0
+839,Københavns Universitet,,24,13,6,0.212906305257813,0.00569120487401564,0.833333333333333,1,0
+840,Københavns Universitet,,24,13,1,0.173899454729106,0.0,1.0,0,0
+841,RUC,,9,35,1,0.191219420542165,0.0,1.0,0,0
+842,Organisation w. few network members,,13,24,18,0.29208160433179,0.0683943706594708,0.222222222222222,9,0
+843,,,14,23,5,0.236114414930326,0.000154683806784237,0.8,1,0
+844,,,8,35,6,0.204268784544774,0.00498951555877815,0.666666666666667,2,0
+845,,,19,15,3,0.220949844834539,0.000646507019468439,0.666666666666667,1,0
+846,,,4,49,13,0.239762982048455,0.00201506722286389,0.692307692307692,2,0
